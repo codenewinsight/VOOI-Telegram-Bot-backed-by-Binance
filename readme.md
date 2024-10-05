@@ -33,7 +33,7 @@ Input data two files: `data.txt` and `proxy.txt`.
 
 **Run the tool with the command:**
 
-`python vooi.py` or `node vooi-proxy.py`
+`python vooi.py` or `python vooi-proxy.py`
 
 Join my Telegram: [LINK](https://t.me/scriptsharing)
 

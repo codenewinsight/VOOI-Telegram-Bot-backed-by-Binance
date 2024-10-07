@@ -1,6 +1,6 @@
 ### VOOI Telegram Auto BOT SCRIPT
 
-**Link VOOI:** [LINK](https://t.me/VooiAppBot/vooi?startapp=frenIDz0zVVP7) | CODE | zR3lYDO | kJp7k9v | 8PWoXZr | wPJpyvz | 2zxwYJ1 | 
+**Link VOOI:** [LINK](https://t.me/VooiAppBot/vooi?startapp=frenIDzR3lYDO) | CODE | kJp7k9v | 8PWoXZr | wPJpyvz | 2zxwYJ1 | 
 yRK0AM6 |
 
 **Github download:** [LINK](https://github.com/codenewinsight/VOOI-Telegram-Bot-backed-by-Binance)

@@ -38,4 +38,4 @@ Input data two files: `data.txt` and `proxy.txt`.
 
 Join my Telegram: [LINK](https://t.me/scriptsharing)
 
-Sourcecode/dancayairdrop
+Sourcecode/dancayairdrop.
